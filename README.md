@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HFang1012
 - 👀 I’m interested in learning to code games and algorithmic programs
 - 🌱 I’m currently learning Java and GDS
-- 💞️ I’m looking to collaborate on nothing, I collaborate with people I know or work alone.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am still alive!
