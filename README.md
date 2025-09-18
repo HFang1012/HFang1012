@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am still alive!
+- ⚡ Fun fact: I code video games!
 
 <!---
 HFang1012/HFang1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
